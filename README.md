@@ -183,7 +183,7 @@ This particular local descriptor is quite similar to the previous one, with the 
 
 ## Harris Corner Detector
 ### Task
-For the detection of interest points, you will implement the Harris corner detector algorithm, which was first proposed in the article:[Combined corner and edge detector][https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=88cdfbeb78058e0eb2613e79d1818c567f0920e2]. The basic idea is as follows. Let's assume that w(x1,x2) is a two-dimensional function that has non-zero values near the origin and "dies off" as (x1,x2) moves away from (0,0).
+For the detection of interest points, you will implement the Harris corner detector algorithm, which was first proposed in the article:[Combined corner and edge detector](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=88cdfbeb78058e0eb2613e79d1818c567f0920e2). The basic idea is as follows. Let's assume that w(x1,x2) is a two-dimensional function that has non-zero values near the origin and "dies off" as (x1,x2) moves away from (0,0).
 
 Construct the function:
 
